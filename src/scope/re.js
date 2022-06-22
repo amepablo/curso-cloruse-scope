@@ -22,5 +22,11 @@ const animal = 'dog';   // declara y asigna
 // animal = 'cat';      // reasignar
 console.log(animal);    // Assignment to constant variable
 
+
+// Array 
 const vehicles = [];     // inicializar array
 vehicles.push('fitito');
+console.log(vehicles);
+
+vehicles.pop();
+console.log(vehicles);
